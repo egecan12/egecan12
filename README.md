@@ -1,4 +1,4 @@
-<p align="left">About Me 👨‍💻<br><br>    I had been working at BATL but currently looking for new opportunities.   <br><br>Ask me about Javascript, React or Node.js.<br><br>My projects📝<br><br>  
+<p align="left">About Me 👨‍💻<br><br>    I had been working at BATL but currently looking for new opportunities.   <br><br>Ask me about Javascript, React or Node.js.<br><br>My projects📝<br>
 <br>Projects run on free server, it might take up to 1 min to load.<br>
 Twitter Clone: https://twitter-clone-2024.onrender.com<br><br>Website Tracker API: https://website-change-tracker.onrender.com<br><br>Web Game 2019: https://web-game-delight-fighter.onrender.com<br><br>Netflix Clone: https://egeflix.kahyaogluegecan.tech/index.php</p>
 
