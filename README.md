@@ -23,7 +23,7 @@ Twitter Clone: https://twitter-clone-2024.onrender.com<br><br>Website Tracker AP
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/next-original.svg" height="40" alt="next logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" height="40" alt="next logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
